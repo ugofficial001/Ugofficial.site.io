@@ -1,0 +1,228 @@
+body{
+  background-color: #EC7700
+  margin: 0px, ;
+  text-align: center;
+}
+img {
+    border-radius: 100%;
+    
+}
+h1{
+    color:#FEED30;
+    font-size: 3rem;
+    margin: 100px auto 10px;
+    font-family: Sans-Serif;
+    font-style: bold 30px;
+}
+h2{
+    color: #FEED30;
+    margin:10px auto 40px;
+    font-family: 'Poor Story',Sans-Serif;
+    font-style: bold 10px;
+    font-size: 30px;
+    
+}
+h3{
+    color: #FEED30;
+    font-family: 'poor story', Sans-Serif;
+    margin: 40px auto 5px;
+    font-style: bold 10px;
+    font-size: 30px;
+}
+a{
+    color:#FEED30;
+    margin: 100px auto
+    font-size:15px;
+    text-decoration: none;
+    margin-top: 10px;
+    
+}
+a:hover{
+    color: gold;
+}                   
+p{
+    color:grey ;
+    font-family: 'poor story' Sans-Serif;
+    margin: 0px auto 40px;
+}
+span{
+    background-color: gold;
+    color: #005689;
+    font-family: cursive , Sans-Serif;
+}
+button{
+    background-color: #FEED30;
+}
+/***********class selector***********/
+.top-container{
+    background-color:#005689 ;
+    border: 10px;
+    padding: 25px 15px 25px;
+    text-align: center;
+}
+.bottom-container{
+    background-color:#005689;
+    margin: 0px;
+    padding:20px;
+    font-family: 'poor story', Sans-Serif;
+}
+.middle-container{
+    background-color: #C5E3F6;
+    padding: 15px 20px 15px;
+}
+
+}
+.not{
+    font-size: 10px;
+    color: grey;
+}
+.no{
+    color: #FEED30;
+    font-size: 10px;
+}
+.nos{
+    font-size: 5px;
+    color: grey;
+}
+.desc{
+    color: grey;
+    margin: 0px auto 30px;
+}
+.btn {
+  background: #FEED30;
+  background-image: -webkit-linear-gradient(top, #FEED30, Grey);
+  background-image: -moz-linear-gradient(top, #FEED30, Grey);
+  background-image: -ms-linear-gradient(top, #FEED30, Grey);
+  background-image: -o-linear-gradient(top, #FEED30, Grey);
+  background-image: linear-gradient(to bottom, #FEED30, Grey);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  -webkit-box-shado6w: 0px 1px 5px Gold;
+  -moz-box-shadow: 0px 1px 5px Gold;
+  box-shadow: 0px 1px 5px Gold;
+  font-family: 'poor story', Sans-Serif;
+  color: #FEED30;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  border: solid #FEED30 0px;
+  text-decoration: none;
+  margin-bottom: 30px;
+}
+
+.btn:hover {
+  background: Gold;
+  background-image: -webkit-linear-gradient(top, Gold, Gold);
+  background-image: -moz-linear-gradient(top, Gold, Gold);
+  background-image: -ms-linear-gradient(top, Gold, Gold);
+  background-image: -o-linear-gradient(top, Gold, Gold);
+  background-image: linear-gradient(to bottom, Gold, Gold);
+  text-decoration: none;
+}
+.footer-link{
+    font-size: 12px;
+    font-family: 'poor story', Sans-Serif;
+    margin-inline: 5px;
+}
+.img-fluid{
+    margin: 30px auto;
+    background-color:#005689 ;
+    transform: rotate(20deg);
+    size: 100px;
+}
+.circular{
+    margin: 50px auto 10px;
+}
+.icon{
+    color: #005689;
+    margin: 45px auto 0px;
+    border-radius: 100%;
+    
+}
+.icon:hover{
+    color: #FEED30;
+}
+.icons{
+    color: #FEED30;
+}
+/*****.navbar-brand{
+    font-family: 'freehand' Sans-Serif;
+    color: grey;*********/
+}
+.Container-fluid{
+    background-color:#C5E3F6;
+    
+}
+
+.tog{
+    background-color:#C5E3F6;
+    color: #C5E3F6;
+}
+.p0{
+    position: absolute;
+    left: 5rem;
+    position: relative
+    top: 6rem;
+    color: #FEED30;
+    font-style: bold 20px;
+}
+.p1{
+    position: absolute;
+    right: 3rem;
+    position: relative
+    top: 6rem;
+    color: #FEED30;
+    font-style: bold 20px;
+}
+.p2{
+    position: relative
+    bottom: 8rem;
+    color: #FEED30;
+    font-style: bold 20px;
+}
+.p3{
+    position: absolute;
+    right: 5rem;
+    position: relative
+    bottom: 10rem;
+    color: #FEED30;
+    font-style: bold 20px;
+}
+.p4{
+    position: relative
+    top: 15rem;
+    color: #FEED30;
+    font-style: bold 20px;
+}
+.p5{
+    position: absolute;
+    right: 6rem;
+    position: relative
+    top: 4rem;
+    color: #FEED30;
+    font-style: bold 20px;
+}
+.p6{
+    position: relative
+    top: 10rem;
+    color: #FEED30;
+    font-style: bold 100px;
+}
+.p7{
+    position: relative
+    bottom: 5rem;
+    color: #FEED30;
+    font-style: bold 100px;
+}
+.p8{
+    position: relative
+    top: 5rem;
+    color: #FEED30;
+    font-style: bold 100px;
+}
+.p9{
+    position: relative
+    top: 5rem;
+    color: #FEED30;
+    font-style: bold 20px;
+}
